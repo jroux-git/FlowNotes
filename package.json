@@ -1,0 +1,12 @@
+{
+  "name": "flownotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "${workspaceFolder}/js/main.js",
+  "scripts": {},
+  "author": "Jean Roux",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

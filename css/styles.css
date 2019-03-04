@@ -1,0 +1,11 @@
+
+.note {
+    display: list-item;
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.editMode {
+    outline: none;
+    border-bottom: 1px solid darkgray;
+}
